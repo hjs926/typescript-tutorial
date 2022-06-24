@@ -7,6 +7,10 @@ let isStudent: boolean;
 let hobbies: string[];
 let role: [number, string];
 
+type Person = {};
+
+let person: Object;
+
 function App() {
   return <div className="App">Hello Wolrd</div>;
 }
