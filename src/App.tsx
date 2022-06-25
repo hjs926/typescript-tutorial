@@ -7,7 +7,7 @@ let isStudent: boolean;
 let hobbies: string[];
 let role: [number, string];
 
-type Person = {};
+type Person = {jun, sun, hwang};
 
 let person: Object;
 
